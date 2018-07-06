@@ -22,7 +22,7 @@
     "core-js": "^2.5.7",
     "normalize.css": "^8.0.0",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
